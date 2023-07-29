@@ -15,7 +15,20 @@ Estoy lista para enfrentar nuevos desafíos y seguir creciendo como profesional 
 ## ¿Qué hago?
 Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formación como programador.
 
-- 📫 How to reach me: 
+## ¿Qué tecnologías uso?
+Javascript
+React.js
+Node.js
+Express.js
+PostgreSQL
+Sequelize
+GIT
+incluyendo HTML y CSS
+
+Como herramientas adicionales, tengo conocimiento en Photoshop, Illustrator y Figma
+
+## Como contactarme:  
+
 linkedin: linkedin.com/in/milagros-guzman-abarca-369bbb250
 mail: miliguzman0@gmail.com
 
