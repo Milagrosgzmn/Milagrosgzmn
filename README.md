@@ -1,7 +1,7 @@
 # Hola! Soy Milagros Guzman 👋
 ### Una programadora Fullstack 
 
-##Sobre mí:
+## Sobre mí:
 ----
 Desde siempre, he sentido una afinidad por las disciplinas prácticas, la ciencia, el arte y la tecnología, pero no fue hasta más tarde que incursioné en el mundo Tech.
 
@@ -13,19 +13,24 @@ Estoy lista para enfrentar nuevos desafíos y seguir creciendo como profesional 
 
 -----
 ## ¿Qué hago?
-Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formación como programador.
+Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formación como programadora.
 
 ## ¿Qué tecnologías uso?
-Javascript
-React.js
-Node.js
-Express.js
-PostgreSQL
-Sequelize
-GIT
-incluyendo HTML y CSS
+* Javascript
+* React.js
+* Node.js
+* Express.js
+* PostgreSQL
+* Sequelize
+* GIT
+  
+Incluyendo HTML y CSS
 
 Como herramientas adicionales, tengo conocimiento en Photoshop, Illustrator y Figma
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Milagrosgzmn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ## Como contactarme:  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milagros-guzman-abarca-369bbb250/)
