@@ -1,40 +1,60 @@
-# Hola! Soy Milagros Guzman 👋
-### Una programadora Fullstack 
+# ¡Hola! Soy Milagros Guzmán 👋  
+### Desarrolladora Fullstack | Estudiante de Ingeniería Informática
 
-## Sobre mí:
-----
-Desde siempre, he sentido una afinidad por las disciplinas prácticas, la ciencia, el arte y la tecnología, pero no fue hasta más tarde que incursioné en el mundo Tech.
+---
 
-Durante mi paso por la carrera de Tecnología Multimedia, tuve la oportunidad de explorar un poco la programación, y descubrí que me fascinaba el mundo tech y la resolución de problemas a través del desarrollo de software. Fue entonces cuando decidí tomar un nuevo camino y unirme al bootcamp de Soy Henry, donde adquirí conocimientos sólidos en tecnologías como Javascript, React, Redux, Express, Node.js, PostgreSQL y Sequelize.
+## Sobre mí
 
-Mi viaje en la industria tech aún es joven, y eso me motiva aún más para seguir aprendiendo nuevas tecnologías de forma constante.
+Soy una desarrolladora Fullstack apasionada por la tecnología, con experiencia en el desarrollo de aplicaciones web tanto del lado del cliente como del servidor. Actualmente me desempeño como desarrolladora mientras curso la carrera de Ingeniería Informática en la Universidad de Palermo.
 
-Estoy lista para enfrentar nuevos desafíos y seguir creciendo como profesional en este apasionante campo.
+Mi camino en el mundo tech comenzó durante mis estudios en la Universidad Maimónides, donde descubrí mi interés por la programación. A partir de ahí, me formé en el bootcamp de Soy Henry y luego seguí creciendo profesionalmente a través de proyectos y experiencias laborales.
 
------
-## ¿Qué hago?
-Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formación como programadora.
+He trabajado tanto con tecnologías como JavaScript y otras como Java y PHP en entornos productivos.
 
-## ¿Qué tecnologías uso?
-* Javascript
-* React.js
-* Node.js
-* Express.js
-* PostgreSQL
-* Sequelize
-* GIT
-  
-Incluyendo HTML y CSS
+---
 
-Como herramientas adicionales, tengo conocimiento en Photoshop, Illustrator y Figma
+## 🚀 ¿Qué tecnologías manejo?
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Milagrosgzmn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+**Back-End**  
+- Node.js | Express  
+- Java (concurrencia, APIs REST)  
+- PHP  
+- PostgreSQL | Sequelize
 
+**Front-End**  
+- React.js | Redux  
+- HTML | CSS | JavaScript  
 
+**Herramientas y otros conocimientos**  
+- GIT & GitHub  
+- Figma | Photoshop | Illustrator  
+- Metodologías ágiles
+
+---
+
+## 👩‍💻 Actualmente...
+
+✅ Trabajo como desarrolladora en una consultora IT  
+🎓 Estudio Ingeniería Informática en la Universidad de Palermo  
+📚 Me sigo capacitando en arquitectura de software y buenas prácticas
+
+---
 
 ## Como contactarme:  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milagros-guzman-abarca-369bbb250/)
 [![Gmail](     https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]( mailto:miliguzman0@gmail.com )
+
+
+---
+
+## 📊   
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Milagrosgzmn&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
