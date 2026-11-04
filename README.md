@@ -14,8 +14,11 @@ Antes de eso, vengo de atención al cliente.
 ## Tecnologías
 
 **Backend:** Node.js, TypeScript, Go, Java, PHP/Laravel
+
 **Frontend y mobile:** React, Next.js, React Native, Expo, Tailwind
+
 **Datos:** PostgreSQL, MySQL, SQL
+
 **Infraestructura y herramientas:** AWS (EC2), Docker, Git, GitHub
 
 ## Actualmente
@@ -25,4 +28,6 @@ Antes de eso, vengo de atención al cliente.
 
 ## Contacto
 
-[LinkedIn](https://www.linkedin.com/in/milagros-guzman-abarca-369bbb250/) | [Portfolio](https://milagrosgzmn-portfolio.vercel.app/) | milagros.guzmanabarca@gmail.com
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milagros-guzman-abarca-369bbb250/)
+[![Gmail](     https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]( mailto:miliguzman0@gmail.com )
+[Portfolio](https://milagrosgzmn-portfolio.vercel.app/)
